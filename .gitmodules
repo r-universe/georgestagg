@@ -1,5 +1,12 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/georgestagg/georgestagg.r-universe.dev
 	branch = HEAD
+[submodule "V8"]
+	path = V8
+	url = https://github.com/georgestagg/V8
+	branch = webr
+[submodule "tomleditjs"]
+	path = tomleditjs
+	url = https://github.com/georgestagg/tomleditjs
+	branch = webr
