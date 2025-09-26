@@ -6,7 +6,3 @@
 	path = V8
 	url = https://github.com/georgestagg/V8
 	branch = webr
-[submodule "tomleditjs"]
-	path = tomleditjs
-	url = https://github.com/georgestagg/tomleditjs
-	branch = webr
